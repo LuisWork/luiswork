@@ -23,4 +23,3 @@ Si tienes alguna pregunta, sugerencia o te gustaría colaborar en alguno de los 
 ¡Gracias por visitar mi repositorio! Espero que disfrutes revisando mis proyectos tanto como yo disfruté desarrollándolos. ¡Feliz coding! 🚀
 
 ![Java](java.png)
-![Spring](spring.png)

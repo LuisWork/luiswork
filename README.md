@@ -21,5 +21,3 @@ Este repositorio tiene como objetivo mostrar algunas de mis habilidades y proyec
 Si tienes alguna pregunta, sugerencia o te gustaría colaborar en alguno de los proyectos, no dudes en contactarme. Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/luiszambranowork/).
 
 ¡Gracias por visitar mi repositorio! Espero que disfrutes revisando mis proyectos tanto como yo disfruté desarrollándolos. ¡Feliz coding! 🚀
-
-![Java](java.png)

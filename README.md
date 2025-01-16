@@ -1,23 +1,41 @@
-# Bienvenido al repositorio de Luis Zambrano
+# Luis Zambrano Salazar
+luiszambrano.work@gmail.com | [Linkedin](https://www.linkedin.com/in/luiszambranowork/)
 
-¡Hola! Soy Luis Zambrano, un entusiasta desarrollador soy egresado de Analista Programador ademas de formacion autodidacta y un Bootcamp FullStack Java. Este repositorio contiene una muestra de mis habilidades en diferentes tecnologías que he aprendido y aplicado durante mi formación.
+## Sobre mi
+Analista Programador con experiencia en el análisis y desarrollo, destacando la construcción y consumo
+de apis RESTful a través de tecnologías como Laravel y Spring para el backend y el desarrollo de
+interfaces funcionales con Angular, Vue y React para el frontend. Mi expertise abarca el dominio de varios
+lenguajes de programación y bases de datos relacionales. Me caracterizo por mi compromiso con la
+mejora continua de mis habilidades técnicas, mi pasión por contribuir con valor añadido en proyectos
+desafiantes, no importa la tecnología y de ser posible involucrarme en todo el ciclo de vida del producto.
+Mi sello profesional se orienta hacia la excelencia en la calidad del código, el trabajo colaborativo y la
+innovación en la resolución de problemas.
 
-## Tecnologías
-Durante mi proceso de aprendizaje, he adquirido conocimientos en una variedad de tecnologías, incluyendo:
+### Experiencia
+#### Desarrollador Full Stack |Freelance Enero 2024 - Octubre 2024
+Diseño e implementación de interfaces de usuario con tecnologías como React, Angular y Vue.js.
+Desarrollo de soluciones responsivas y adaptativas utilizando Bootstrap y CSS3, asegurando una
+experiencia de usuario óptima en diversos dispositivos.
+Gestión y mantenimiento de código de alta calidad y modularidad, empleando GIT para un control de
+versiones efectivo.
 
-- Git: Un sistema de control de versiones que me permite mantener un seguimiento organizado de los cambios en el código. 
-- HTML: El lenguaje fundamental para crear la estructura y el contenido de las páginas web.
-- CSS: Un lenguaje de estilos que me permite darle vida y diseño a las páginas web.
-- JavaScript: El lenguaje de programación esencial para agregar interactividad y dinamismo a las aplicaciones web.
-- Bootstrap: Un popular framework CSS que me permite construir sitios web responsivos y atractivos de manera rápida y sencilla.
-- SQL: Un sistema de gestión de bases de datos relacionales, con el que puedo almacenar y administrar datos de manera eficiente.
-- Java: Un lenguaje de programación versátil y poderoso, que he utilizado para desarrollar aplicaciones backend y mucho más.
-- Spring: Un framework de Java que me ha permitido simplificar el desarrollo de aplicaciones web y facilitar la integración con bases de datos.
+#### Desarrollador Backend Java | Corfo Enero 2021 - Diciembre 2023
+Desarrollo avanzado y mantenimiento de aplicaciones web de alto rendimiento con Java y Spring
+Framework.
+Creación e implementación de servicios RESTful robustos para la integración fluida con sistemas
+externos.
+Diseño estratégico y optimización de bases de datos relacionales (MySQL, PostgreSQL) y noSQL
+(MongoDB), garantizando la integridad y el rendimiento de los datos.
+Colaboración efectiva en equipos multidisciplinarios, aportando soluciones eficientes y escalables que
+impulsan el éxito del proyecto.
 
-### Objetivo del Repositorio
-Este repositorio tiene como objetivo mostrar algunas de mis habilidades y proyectos en las tecnologías mencionadas anteriormente. Encontrarás una variedad de proyectos que he desarrollado durante mi formación, demostrando mi capacidad para crear aplicaciones web interactivas y funcionales.
+#### Desarrollador PHP | Doomos S.A
+Desarrollo y mantenimiento de aplicaciones web con PHP nativo, asegurando rendimiento y calidad.
+Experiencia en implementación de web services para robustas integraciones con sistemas externos.
+Profundo conocimiento en diseño y optimización de bases de datos con MySQL y MariaDB,
+garantizando la escalabilidad y eficiencia.
+Colaborador activo en equipos multidisciplinarios, comprometido con la entrega de soluciones
+tecnológicas eficientes y escalables.
 
-### Contacto
-Si tienes alguna pregunta, sugerencia o te gustaría colaborar en alguno de los proyectos, no dudes en contactarme. Puedes encontrarme en [Linkedin](https://www.linkedin.com/in/luiszambranowork/).
-
-¡Gracias por visitar mi repositorio! Espero que disfrutes revisando mis proyectos tanto como yo disfruté desarrollándolos. ¡Feliz coding! 🚀
+# CERTIFICACIÓN
+Bootcamp 2023 Java Spring Full Stack Marzo 2023 - Septiembre 2023

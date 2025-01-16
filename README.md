@@ -15,7 +15,7 @@ innovación en la resolución de problemas.
 - Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, React, Angular, Vue.
 - Backend: PHP, Laravel, Java, Spring Framework.
 - Base de Datos: SQL y en menor medida noSQL.
-- Control de Versiones: Git ([GitHub](https://github.com/LuisWork).
+- Control de Versiones: Git ([GitHub](https://github.com/LuisWork)).
 - Languages: Español, Inglés Intermedio(lectura técnica fluida).
 
 ### Experiencia

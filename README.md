@@ -11,31 +11,35 @@ desafiantes, no importa la tecnología y de ser posible involucrarme en todo el 
 Mi sello profesional se orienta hacia la excelencia en la calidad del código, el trabajo colaborativo y la
 innovación en la resolución de problemas.
 
+## Habilidades Tecnicas
+- Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, React, Angular, Vue.
+- Backend: PHP, Laravel, Java, Spring Framework.
+- Base de Datos: SQL y en menor medida noSQL.
+- Control de Versiones: Git ([GitHub](https://github.com/LuisWork).
+- Languages: Español, Inglés Intermedio(lectura técnica fluida).
+
 ### Experiencia
-#### Desarrollador Full Stack |Freelance Enero 2024 - Octubre 2024
-Diseño e implementación de interfaces de usuario con tecnologías como React, Angular y Vue.js.
-Desarrollo de soluciones responsivas y adaptativas utilizando Bootstrap y CSS3, asegurando una
-experiencia de usuario óptima en diversos dispositivos.
-Gestión y mantenimiento de código de alta calidad y modularidad, empleando GIT para un control de
-versiones efectivo.
+#### Desarrollador Full Stack | Freelance Enero 2024 - Octubre 2024
+- Diseño e implementación de interfaces de usuario con tecnologías como React, Angular y Vue.js.
+- Desarrollo de soluciones responsivas y adaptativas utilizando Bootstrap y CSS3, asegurando una experiencia de usuario óptima en diversos dispositivos.
+- Gestión y mantenimiento de código de alta calidad y modularidad, empleando GIT para un control de versiones efectivo.
 
 #### Desarrollador Backend Java | Corfo Enero 2021 - Diciembre 2023
-Desarrollo avanzado y mantenimiento de aplicaciones web de alto rendimiento con Java y Spring
-Framework.
-Creación e implementación de servicios RESTful robustos para la integración fluida con sistemas
-externos.
-Diseño estratégico y optimización de bases de datos relacionales (MySQL, PostgreSQL) y noSQL
-(MongoDB), garantizando la integridad y el rendimiento de los datos.
-Colaboración efectiva en equipos multidisciplinarios, aportando soluciones eficientes y escalables que
-impulsan el éxito del proyecto.
+- Desarrollo avanzado y mantenimiento de aplicaciones web de alto rendimiento con Java y Spring Framework.
+- Creación e implementación de servicios RESTful robustos para la integración fluida con sistemas externos.
+- Diseño estratégico y optimización de bases de datos relacionales (MySQL, PostgreSQL) y noSQL
+- (MongoDB), garantizando la integridad y el rendimiento de los datos.
+- Colaboración efectiva en equipos multidisciplinarios, aportando soluciones eficientes y escalables que impulsan el éxito del proyecto.
 
-#### Desarrollador PHP | Doomos S.A
-Desarrollo y mantenimiento de aplicaciones web con PHP nativo, asegurando rendimiento y calidad.
-Experiencia en implementación de web services para robustas integraciones con sistemas externos.
-Profundo conocimiento en diseño y optimización de bases de datos con MySQL y MariaDB,
-garantizando la escalabilidad y eficiencia.
-Colaborador activo en equipos multidisciplinarios, comprometido con la entrega de soluciones
-tecnológicas eficientes y escalables.
+#### Desarrollador PHP | Doomos S.A Marzo 2017 - Julio 2019
+- Desarrollo y mantenimiento de aplicaciones web con PHP nativo, asegurando rendimiento y calidad.
+- Experiencia en implementación de web services para robustas integraciones con sistemas externos.
+- Profundo conocimiento en diseño y optimización de bases de datos con MySQL y MariaDB, garantizando la escalabilidad y eficiencia.
+- Colaborador activo en equipos multidisciplinarios, comprometido con la entrega de soluciones tecnológicas eficientes y escalables.
+
+### Educacion | Marzo 2017 - Julio 2019
+Tecnico superior Analista Programador
+CFT INACAP Concepción - Talcahuano
 
 # CERTIFICACIÓN
 Bootcamp 2023 Java Spring Full Stack Marzo 2023 - Septiembre 2023

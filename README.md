@@ -32,7 +32,7 @@ innovación en la resolución de problemas.
 - (MongoDB), garantizando la integridad y el rendimiento de los datos.
 - Colaboración efectiva en equipos multidisciplinarios, aportando soluciones eficientes y escalables que impulsan el éxito del proyecto.
 
-#### Desarrollador PHP | Doomos S.A Marzo 2017 - Julio 2019
+#### Desarrollador PHP | Doomos S.A Septiembre 2019 - Septiembre 2020
 - Desarrollo y mantenimiento de aplicaciones web con PHP nativo, asegurando rendimiento y calidad.
 - Experiencia en implementación de web services para robustas integraciones con sistemas externos.
 - Profundo conocimiento en diseño y optimización de bases de datos con MySQL y MariaDB, garantizando la escalabilidad y eficiencia.

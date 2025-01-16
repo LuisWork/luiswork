@@ -20,9 +20,10 @@ innovación en la resolución de problemas.
 
 ### Experiencia
 #### Desarrollador Full Stack | Freelance Enero 2024 - Octubre 2024
-- Diseño e implementación de interfaces de usuario con tecnologías como React, Angular y Vue.js.
-- Desarrollo de soluciones responsivas y adaptativas utilizando Bootstrap y CSS3, asegurando una experiencia de usuario óptima en diversos dispositivos.
-- Gestión y mantenimiento de código de alta calidad y modularidad, empleando GIT para un control de versiones efectivo.
+- Diseño e implementación de interfaces con React, Angular y Vue.js
+- Desarrollo de soluciones backend con Laravel y Spring.
+- Gestión y mantenimiento de código de alta calidad y modularidad, empleando GIT para un control de versiones efectivo. 
+- Creación de componentes reutilizables que optimizan y agilizan el proceso de desarrollo de nuevas funcionalidades.  
 
 #### Desarrollador Backend Java | Corfo Enero 2021 - Diciembre 2023
 - Desarrollo avanzado y mantenimiento de aplicaciones web de alto rendimiento con Java y Spring Framework.

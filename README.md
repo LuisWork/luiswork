@@ -18,19 +18,7 @@ innovación en la resolución de problemas.
 - Control de Versiones: Git ([GitHub](https://github.com/LuisWork)).
 - Languages: Español, Inglés Intermedio(lectura técnica fluida).
 
-### Experiencia
-#### Desarrollador Full Stack | Freelance Enero 2024 - Octubre 2024
-- Diseño e implementación de interfaces con React, Angular y Vue.js
-- Desarrollo de soluciones backend con Laravel y Spring.
-- Gestión y mantenimiento de código de alta calidad y modularidad, empleando GIT para un control de versiones efectivo. 
-- Creación de componentes reutilizables que optimizan y agilizan el proceso de desarrollo de nuevas funcionalidades.  
-
-#### Desarrollador Backend Java | Corfo Enero 2021 - Diciembre 2023
-- Desarrollo avanzado y mantenimiento de aplicaciones web de alto rendimiento con Java y Spring Framework.
-- Creación e implementación de servicios RESTful robustos para la integración fluida con sistemas externos.
-- Diseño estratégico y optimización de bases de datos relacionales (MySQL, PostgreSQL) y noSQL
-- (MongoDB), garantizando la integridad y el rendimiento de los datos.
-- Colaboración efectiva en equipos multidisciplinarios, aportando soluciones eficientes y escalables que impulsan el éxito del proyecto.
+### Experiencia 
 
 #### Desarrollador PHP | Doomos S.A Septiembre 2019 - Septiembre 2020
 - Desarrollo y mantenimiento de aplicaciones web con PHP nativo, asegurando rendimiento y calidad.
@@ -41,6 +29,3 @@ innovación en la resolución de problemas.
 ### Educacion | Marzo 2017 - Julio 2019
 Tecnico superior Analista Programador
 CFT INACAP Concepción - Talcahuano
-
-# CERTIFICACIÓN
-Bootcamp 2023 Java Spring Full Stack Marzo 2023 - Septiembre 2023
